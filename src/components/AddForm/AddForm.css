@@ -1,0 +1,22 @@
+.addForm-container {
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid #00000030;
+  border-radius: .20rem;
+  background-color: #efefef;
+}
+.addForm-input {
+  padding: .4em;
+  border: 1px solid #00000030;
+  border-radius: .20rem;
+}
+.addForm-tags {
+  margin-top: 0.5em;
+}
+
+.addForm-tags span {
+  padding: .2em;
+  margin-right: .2em;
+  border: 1px solid #e7e7e7;
+  border-radius: .20rem;
+}

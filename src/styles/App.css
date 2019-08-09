@@ -1,0 +1,14 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.app-container {
+  margin: 2em auto;
+  width: 500px;
+  border: 1px solid #00000030;
+  border-radius: .50rem;
+}
